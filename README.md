@@ -1,0 +1,6 @@
+# valle-de-uco
+web de fotos 
+produccion de fotos entre dos amigos de la montaña de la cordillera de los andes,de la zona de san carlos llamada valle de uco
+segunda produccion mia...donde se puede ver un par de html con fotografias de alta calidad colocadas en un cuasi-carrousel
+muy dinamico  y que resulta agradable a la vista,los css agragan coloras y buenos sombreados muy finos o calculados...
+esspero les guste...
