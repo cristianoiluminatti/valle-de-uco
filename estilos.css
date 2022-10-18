@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .showcase{
-    width: 100%;
+    width: 98%;
     height: 400px;
     position: relative;
     margin: 16px;
@@ -88,7 +88,7 @@ h2{
 
 .container{
     display: flex;
-    width: 100%;
+    width: 103%;
     height: 110vh;
     margin: 6px;
     padding: 4% 2%;
