@@ -88,7 +88,7 @@ h2{
 
 .container{
     display: flex;
-    width: 150%;
+    width: 120%;
     height: 110vh;
     padding: 4% 2%;
     box-sizing: border-box;
