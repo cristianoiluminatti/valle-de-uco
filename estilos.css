@@ -47,13 +47,43 @@ h2{
 .btn-mat{
     position: relative;
     color: black;
-    
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: block;
     text-align: center;
     height: 7vh;
     line-height: 2.5;
+}
+.text{
+    position: relative;
+    height: 35px;
+    left: 20%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(-415deg,#bf5b04,#bf5b04,#280413,#280413,#1fe1f7,#1fe1f7);
+    background-size: 300%;
+    place-items: center;
+    font-family: 'Xxix';
+    font-weight: 600;
+    font-size: 25px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animated_text 5s ease-in-out infinite;
+    -moz-animation: animated_text 5s ease-in-out infinite;
+    -webkit-animation: animated_text 5s ease-in-out infinite;
+}
+@keyframes animated_text{
+    0%{
+        background-position: 0px 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0px 50%;
+    }
 }
 
 .container{
