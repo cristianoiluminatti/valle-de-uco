@@ -56,10 +56,10 @@ h2{
 }
 .text{
     position: relative;
-    height: 35px;
+    height: 25px;
     left: 20%;
     top: 20%;
-    transform: translate(-50%, -50%);
+    transform: translate(-20%, -20%);
     background: linear-gradient(-415deg,#bf5b04,#bf5b04,#280413,#280413,#1fe1f7,#1fe1f7);
     background-size: 300%;
     place-items: center;
