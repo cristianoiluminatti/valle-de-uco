@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 .showcase{
-    width: 80%;
+    width: 95%;
     height: 400px;
     position: relative;
-    margin: 36px;
+    margin: 16px;
     
 }
 .showcase video{
@@ -23,7 +23,7 @@
     width: 90%;
     height: 90%;
     background-color: transparent;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Nebulous';
     font-size: 3cm;
     margin: 36px;
     text-align: center;
